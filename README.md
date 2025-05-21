@@ -90,7 +90,7 @@ Publish the website in the LocalHost.
 
     <footer class="bg-dark text-white text-center py-3">
         <div class="container">
-            <p class="mb-0">&copy; 2024 Dribbble Clone | Designed by [Ramya G]</p>
+            <p class="mb-0">&copy; 2024 Dribbble Clone | Designed by [Mohammed hamza m]</p>
         </div>
     </footer>
 
